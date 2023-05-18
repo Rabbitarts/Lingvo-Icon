@@ -1,0 +1,22 @@
+.li-solid,
+.li-regular,
+.li-brand {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	vertical-align: middle;
+	overflow: hidden;
+	color: black;
+}
+
+.li-solid path {
+	fill: currentColor;
+}
+
+.li-regular path {
+	fill: currentColor;
+}
+
+.li-brand path {
+	fill: currentColor;
+}
